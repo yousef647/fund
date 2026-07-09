@@ -1,4 +1,0 @@
-CC= clang
-CFLAGS= -g -Wall
-
-BIN = 
